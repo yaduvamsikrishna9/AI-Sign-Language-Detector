@@ -1,1 +1,1 @@
-AI-Sign-Language-Detector is an Android application (built in Kotlin) that identifies sign language gestures in real time using the device’s camera. The app leverages AI-powered computer vision techniques to interpret hand movements and translate them into meaningful outputs—making communication more accessible to deaf and hearing-impaired users.
+
